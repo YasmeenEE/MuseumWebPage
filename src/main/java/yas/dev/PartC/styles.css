@@ -1,0 +1,6 @@
+.widthheader {
+    justify-content: center;
+    display: flex;
+    width: max-content;
+
+}
